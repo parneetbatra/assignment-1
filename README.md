@@ -7,7 +7,11 @@
   Bio: I am a postgraduate student of CSU. Original from Thailand, living in Melbourne, Australia.\
 
 
-- Aatish Rajkarnikar, 11697482, aatish.rajkarnikar@gmail.com
+- Name: Aatish Rajkarnikar\
+  Student ID: 11697482\
+  Email: aatish.rajkarnikar@gmail.com\
+  Bio: I am a postgraduate student of CSU. Originally from Nepal, living in Melbourne, Australia.\
+
 
 - Name: Parneet Singh\
   Student ID: 11687460\
