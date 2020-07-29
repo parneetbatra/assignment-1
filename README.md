@@ -18,5 +18,3 @@
   Student ID: 11703307\
   Email: chandrika.katikam@gmail.com\
   Bio: I am a postgraduate student of CSU. Original from India, living in Melbourne, Australia.\
-  
-- 
