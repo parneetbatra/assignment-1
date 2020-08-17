@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 // Author: Parneet Singh
+// Reviewer: Tawan Chotikanchinda, Aatish Rajkarnikar, Chandrika Katikam
 
 @SuppressWarnings("serial")
 public class Library implements Serializable {
