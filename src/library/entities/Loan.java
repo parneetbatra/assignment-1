@@ -4,6 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 // Author: Parneet Singh
+// Reviewer: Tawan Chotikanchinda, Aatish Rajkarnikar, Chandrika Katikam
 
 @SuppressWarnings("serial")
 public class Loan implements Serializable {
